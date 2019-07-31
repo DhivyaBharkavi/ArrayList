@@ -16,5 +16,4 @@ public class DemoStudentInfoTest1 {
 		 s.Studentlist(list);
 		 //System.out.println(s);
 	}
-
 }
