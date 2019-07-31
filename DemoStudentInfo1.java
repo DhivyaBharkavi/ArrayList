@@ -9,3 +9,4 @@ public class DemoStudentInfo1 {
 		System.out.println(al);
 	}
 }
+
